@@ -4,7 +4,9 @@ However, there are issue with [ERROR] Failed to execute goal org.codehaus.mojo:e
 
 ## Alternative way to run I found is:
 
-1.In terminal: Cd to Sample folder and then DO C:\Users\gwcho\eclipse-workspace\Sample0>mvn exec:java -Dexec.mainClass="com.tangosol.net.DefaultCacheServer"
+1.In terminal: cd to Sample0 folder and then do 
+
+C:\Users\gwcho\eclipse-workspace\Sample0>mvn exec:java -Dexec.mainClass="com.tangosol.net.DefaultCacheServer"
 
 2.In Eclipse: do mvn clean and insatll then run the HelloCoherence as java application then the following will show:
 
