@@ -25,4 +25,5 @@ ConverterEntry{Key="item_0", Value="{'item':'milk','amount':1}"}
   
 1. mvn environment variable: https://www.youtube.com/watch?v=X0h0Gbiupgg
 2. https://maven.apache.org/download.cgi
-3. using java 8  
+3. using java 8 
+4. https://www.simplilearn.com/tutorials/maven-tutorial/maven-project-in-eclipse  
