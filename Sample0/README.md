@@ -1,4 +1,4 @@
-## This is the sample code from https://github.com/oracle/coherence
+## This is the sample code modified from https://github.com/oracle/coherence
 
 However, there are issue with [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project Sample0: An exception occured while executing the Java class. HelloCoherence -> [Help 1].
 
