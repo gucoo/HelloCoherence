@@ -1,8 +1,8 @@
-This is the sample code from https://github.com/oracle/coherence
+## This is the sample code from https://github.com/oracle/coherence
 
-However, there are issue with [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project Sample0: An exception occured while executing the Java class. HelloCoherence -> [Help 1].
+## However, there are issue with [ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.0.0:java (default-cli) on project Sample0: An exception occured while executing the Java class. HelloCoherence -> [Help 1].
 
-Alternative way to run I found is:
+## Alternative way to run I found is:
 
 1.In terminal: Cd to Sample folder and then DO C:\Users\gwcho\eclipse-workspace\Sample0>mvn exec:java -Dexec.mainClass="com.tangosol.net.DefaultCacheServer"
 
@@ -19,8 +19,8 @@ ConverterEntry{Key="item_1", Value="{'item':'egg'}'amount':1"}
 ConverterEntry{Key="item_2", Value="{'itam':'oil','amount':1}"}
 ConverterEntry{Key="item_0", Value="{'item':'milk','amount':1}"}
   
+## Other setting issues:
   
-Other setting issues:
 1. mvn environment variable
 2. https://maven.apache.org/download.cgi
 3. using java 8  
