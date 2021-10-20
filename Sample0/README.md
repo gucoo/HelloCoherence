@@ -19,8 +19,8 @@ ConverterEntry{Key="item_1", Value="{'item':'egg'}'amount':1"}
 ConverterEntry{Key="item_2", Value="{'itam':'oil','amount':1}"}
 ConverterEntry{Key="item_0", Value="{'item':'milk','amount':1}"}
   
-## Other setting issues:
+## Other setting reference:
   
-1. mvn environment variable
+1. mvn environment variable: https://www.youtube.com/watch?v=X0h0Gbiupgg
 2. https://maven.apache.org/download.cgi
 3. using java 8  
