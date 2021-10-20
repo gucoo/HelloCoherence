@@ -1,2 +1,1 @@
-# HelloCoherence
-Practice the simple sample
+# Practice the simple samples code
